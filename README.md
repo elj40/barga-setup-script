@@ -8,6 +8,7 @@ Short script that configures settings and installs programs to my preference
 ## Running it
 Either
 - Navigate in terminal to same path as script and run `./barga_setup.ps1`
+or
 - Double click the file
 
 ## Editing it
